@@ -1,0 +1,11 @@
+NAME
+    Class::Lego - Build your classes with basic building blocks
+
+SYNOPSIS
+      use Class::Lego;
+
+      # soon
+
+DESCRIPTION
+    Not ready yet. The first piece is Class::Lego::Myself.
+
