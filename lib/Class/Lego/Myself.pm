@@ -5,7 +5,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.001';
+our $VERSION = '0.003';
 
 use Sub::Exporter -setup => {
   exports => [ qw(give_my_self) ],

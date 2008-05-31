@@ -154,7 +154,7 @@ anymore to get methods which work seamlessly
 as class methods (with the right object behavior
 underneath).
 
-=head1 SEE ALSO
+=head1 HISTORY
 
 I first borrowed the code of C<find_my_self>
 from L<Test::Base>, but my use case turned to
@@ -163,6 +163,10 @@ C<Test::Base> struggles to
 turn methods into functions by discovering
 the default object under the hood. In contrast,
 this module is only for good OO code.
+
+=head1 SEE ALSO
+
+L<Class::Default>
 
 =head1 BUGS
 

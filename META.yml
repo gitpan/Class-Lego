@@ -1,7 +1,8 @@
 ---
 name: Class-Lego
-version: 0.001
-author: []
+version: 0.003
+author:
+  - 'Adriano R. Ferreira, E<lt>ferreira@cpan.orgE<gt>'
 abstract: Build your classes with basic building blocks
 license: perl
 resources:
@@ -16,11 +17,11 @@ build_requires:
 provides:
   Class::Lego:
     file: lib/Class/Lego.pm
-    version: 0.001
+    version: 0.003
   Class::Lego::Myself:
     file: lib/Class/Lego/Myself.pm
-    version: 0.001
-generated_by: Module::Build version 0.2808
+    version: 0.003
+generated_by: Module::Build version 0.280801
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2
