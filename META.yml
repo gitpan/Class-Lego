@@ -1,6 +1,6 @@
 ---
 name: Class-Lego
-version: 0.003
+version: 0.004
 author:
   - 'Adriano R. Ferreira, E<lt>ferreira@cpan.orgE<gt>'
 abstract: Build your classes with basic building blocks
@@ -17,7 +17,7 @@ build_requires:
 provides:
   Class::Lego:
     file: lib/Class/Lego.pm
-    version: 0.003
+    version: 0.004
   Class::Lego::Myself:
     file: lib/Class/Lego/Myself.pm
     version: 0.003
